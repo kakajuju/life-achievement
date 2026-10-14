@@ -1,0 +1,1 @@
+import{a as e,i as t}from"./Section-KxHwL3A3.js";var n={root:`_root_1kaah_1`,primary:`_primary_1kaah_23`,danger:`_danger_1kaah_33`},r=e(),i={default:void 0,primary:n.primary,danger:n.danger};function a({variant:e=`default`,className:a,type:o=`button`,...s}){return(0,r.jsx)(`button`,{type:o,className:t(n.root,i[e],a),...s})}export{a as t};

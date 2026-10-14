@@ -1,0 +1,1 @@
+var e=[`common`,`rare`,`epic`,`legendary`,`mythic`],t={common:10,rare:25,epic:50,legendary:100,mythic:250},n={common:`일반`,rare:`희귀`,epic:`영웅`,legendary:`전설`,mythic:`신화`};export{n,t as r,e as t};
